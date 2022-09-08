@@ -1,14 +1,3 @@
-# Semaine 07 - Composante - Modal
-
-Introduction de la composante Modal qui nous permet d'afficher du contenu dans une fenêtre superposée à notre site afin d'attirer l'attention de l'utilisateur.
-<br><br>
-
-## **Consigne de l'exercice**
-
-Lien youtube: https://www.youtube.com/watch?v=FelUYkkBBgQ
-
-<br><br>
-
 # Stack de développement frontend TimTools
 
 C'est quoi un stack de développement frontend? C'est un ensemble d'outil qui permet d'automatiser certaines tâches redondantes et plus complexe afin de d'accélérer et d'optmiser le développement d'un site web ou une application.
